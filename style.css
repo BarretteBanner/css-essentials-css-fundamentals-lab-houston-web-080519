@@ -30,6 +30,6 @@ featured-property p{
 div{
   width: 25%;
   background-color: black;
-  text-align: center;
+  align-content: center;
   
 }
